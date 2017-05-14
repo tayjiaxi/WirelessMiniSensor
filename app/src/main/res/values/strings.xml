@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BLE System 1 - Strain Gauge</string>
+    <string name="app_remarks">Made by Jia Xi Tay: v2.2</string>
+    <string name="action_settings">Settings</string>
+    <string name="Rssi">RSSI</string>
+    <string name="rssiValue">---</string>
+    <string name="digitalOut">Digital Out</string>
+    <string name="digitalIn">Digital In</string>
+    <string name="write">write</string>
+    <string name="read">read</string>
+    <string name="PWM">PWM</string>
+    <string name="Servo">Servo</string>
+    <string name="AnalogIn1">P0_4 value</string>
+    <string name="AnalogIn2">P0_5 value</string>
+    <string name="AnalogIn3">Pin 4 Voltage / volts</string>
+    <string name="AnalogIn4">Pin 5 Voltage / volts</string>
+    <string name="AnalogIn5">Vr / volts</string>
+    <string name="AnalogIn6">Calculated Strain (ε)</string>
+    <string name="AnalogIn7">Updates Received</string>
+    <string name="AIText">----</string>
+    <string name="connect">Connect</string>
+    <string name="graph">Graph</string>
+    <string name="reset">Reset</string>
+    <string name="export">Export CSV</string>
+    <string name="loading">Refreshing......</string>
+    <string name="title_activity_main">MainScreen</string>
+
+</resources>
